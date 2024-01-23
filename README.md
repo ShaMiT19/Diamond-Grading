@@ -1,17 +1,18 @@
-Diamond Grading
+<h1>Diamond Grading</h1> 
 
-Diamond clarity refers to the absence of tiny, natural in-
+<p>Diamond clarity refers to the absence of tiny, natural in-
 clusions (imperfections) inside a diamond or on its surface.
 Almost all diamonds contain their own unique inclusions due
 to their natural formation process.
-
-The 4Cs have long been the accepted standard for grading
+</p>
+<p>The 4Cs have long been the accepted standard for grading
 the rarity and value of diamonds. Yet diamond grading is
 an imprecise art, subject to the natural inconsistencies of
 the human eye when observing extremely fine differences in
 diamond color, and the location and appearance of inclusions,
 which form the basis for the clarity grade.
-
+</p>
+<p>
 This report gives an assessment of diamond clarity with a
 plotted clarity diagram drawn by the appraiser. Significant
 clarity characteristics present in the diamond that influence
@@ -24,7 +25,8 @@ more accurate to show the real appearance of inclusions rather
 than using symbols to substitute for the inclusions. There is
 a high demand in the gemological industry to replace manual
 diamond clarity evaluation methods with an automated system.
+</p>
 
-In this paper I have tried to make a Deep learning model
+<p>In this paper I have tried to make a Deep learning model
 which will find these inclusions and comment on the overall
-purity of the diamond
+purity of the diamond.</p>
